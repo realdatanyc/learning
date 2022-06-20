@@ -2,6 +2,8 @@
 
 * Wait for written authorization from attorneys to release keys (6/15/2022)
 
+[DocuSign tutorial videos](https://support.docusign.com/s/articles/DocuSign-eSignature-Fundamentals?language=en_US&rsc_301)
+
 [reSOURCE](https://support.corcoran.com/hc/en-us/articles/360045190114-reSOURCE-Beyond-the-Basics-)
 
 [uploading listing from other firm to personal page](https://outlook.office.com/mail/inbox/id/AAMkAGZlOThjZWExLTBjZTEtNGRjMC05MDBkLTU0MzcyNjg2OTA2ZQBGAAAAAAC6YfFww2n8TLIRGYK5tUVSBwB4hPs2iUvJS735%2ByGJvqOtAAAAAAEMAAB4hPs2iUvJS735%2ByGJvqOtAAAuQlbTAAA%3D)
