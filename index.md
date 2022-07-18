@@ -9,6 +9,8 @@ learning how to utilize data for insight and predictive analytics
 
 https://opportunityinsights.org/course/
 
+# NYC Rent Laws
+[Bungalow article](https://bungalow.com/articles/rent-control-in-nyc-everything-you-need-to-know)
 
 # Google Search Info
 [Digital Publishing Basics](https://digitalpublishing101.com/digital-publishing-101/digital-publishing-basics/)
