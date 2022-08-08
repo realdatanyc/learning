@@ -5,14 +5,9 @@ learning how to utilize data for insight and predictive analytics
 
 [2020 NYC School of Data](https://nycsodata22.sched.com/)
 
-"Using Big Data to Solve Economic and Social Problems" - Professor Raj Chetty, Harvard University (2019)
-
-https://opportunityinsights.org/course/
+["Using Big Data to Solve Economic and Social Problems" - Professor Raj Chetty, Harvard University (2019)](https://opportunityinsights.org/course/)
 
 [PowerApps DOCUMENTATION](https://docs.microsoft.com/en-us/power-apps/?WT.mc_id=powerplatform-10458-grhurl)
-
-
-
 
 # NYC Rent Laws
 [Bungalow article](https://bungalow.com/articles/rent-control-in-nyc-everything-you-need-to-know)
