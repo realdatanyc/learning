@@ -9,6 +9,11 @@ learning how to utilize data for insight and predictive analytics
 
 https://opportunityinsights.org/course/
 
+[PowerApps DOCUMENTATION](https://docs.microsoft.com/en-us/power-apps/?WT.mc_id=powerplatform-10458-grhurl)
+
+
+
+
 # NYC Rent Laws
 [Bungalow article](https://bungalow.com/articles/rent-control-in-nyc-everything-you-need-to-know)
 
