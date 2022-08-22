@@ -3,7 +3,9 @@
 # learning
 learning how to utilize data for insight and predictive analytics
 
-[2020 NYC School of Data](https://nycsodata22.sched.com/)
+[2022 NYC School of Data - Schedule](https://nycsodata22.sched.com/)
+[2022 NYC Schoolo of Data - Recordings](https://archive.open-data.nyc/)
+
 
 ["Using Big Data to Solve Economic and Social Problems" - Professor Raj Chetty, Harvard University (2019)](https://opportunityinsights.org/course/)
 
