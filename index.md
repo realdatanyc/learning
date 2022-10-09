@@ -3,6 +3,10 @@
 # learning
 learning how to utilize data for insight and predictive analytics
 
+[STEP 1: Watch an overiew of OpenDataNYC from 2022 School of Data - Zoom Meeting](https://www.youtube.com/watch?v=QbvpIMIvovM&list=PLgCe1KzF20ix44ATnYYiGtM5TTWISQ45I&index=12)
+
+
+
 [2022 NYC School of Data - Schedule](https://nycsodata22.sched.com/)
 
 [2022 NYC School of Data - Recordings](https://archive.open-data.nyc/)
