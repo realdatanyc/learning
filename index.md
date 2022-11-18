@@ -30,6 +30,9 @@ learning how to utilize data for insight and predictive analytics
 [Digital Publishing Basics](https://digitalpublishing101.com/digital-publishing-101/digital-publishing-basics/)
 [How Google Search Works](https://www.youtube.com/watch?v=BNHR6IQJGZs&t=188s)
 
+# VBA
+[LEN() Function](https://learn.microsoft.com/en-us/office/vba/language/reference/user-interface-help/len-function)
+
 # Cloze Documentation
 [Enabling built-in notes](https://help.cloze.com/article/1753-how-do-i-enable-cloze-built-in-notes)
 
