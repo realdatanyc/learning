@@ -35,6 +35,8 @@ learning how to utilize data for insight and predictive analytics
 
 [Shared Excel Worksheets in OneDrive](https://support.microsoft.com/en-us/office/work-with-worksheet-data-in-onedrive-c051a205-1c06-4feb-94d8-793b0126b53a)
 
+[Share Excel Workbooks](https://support.microsoft.com/en-us/office/about-the-shared-workbook-feature-49b833c0-873b-48d8-8bf2-c1c59a628534#:~:text=the%20workbook%20instead.-,Click%20Review%20%3E%20Share%20Workbook.,changes%2C%20and%20then%20click%20OK.)
+
 # Cloze Documentation
 [Enabling built-in notes](https://help.cloze.com/article/1753-how-do-i-enable-cloze-built-in-notes)
 
