@@ -16,6 +16,8 @@ learning how to utilize data for insight and predictive analytics
 
 [PowerApps DOCUMENTATION](https://docs.microsoft.com/en-us/power-apps/?WT.mc_id=powerplatform-10458-grhurl)
 
+[Commercial to Residentail Conversion article[(https://resanyc.com/could-office-conversions-solve-nycs-housing-crisis/)
+
 # NYC Rent Laws
 [Bungalow article](https://bungalow.com/articles/rent-control-in-nyc-everything-you-need-to-know)
 
