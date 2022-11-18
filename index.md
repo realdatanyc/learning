@@ -33,6 +33,8 @@ learning how to utilize data for insight and predictive analytics
 # VBA
 [LEN() Function](https://learn.microsoft.com/en-us/office/vba/language/reference/user-interface-help/len-function)
 
+[Shared Excel Worksheets in OneDrive](https://support.microsoft.com/en-us/office/work-with-worksheet-data-in-onedrive-c051a205-1c06-4feb-94d8-793b0126b53a)
+
 # Cloze Documentation
 [Enabling built-in notes](https://help.cloze.com/article/1753-how-do-i-enable-cloze-built-in-notes)
 
