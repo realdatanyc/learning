@@ -1,7 +1,12 @@
 ## Learning
 
-# learning
-[NYC Transfer Tax Info](https://portal.311.nyc.gov/article/?kanumber=KA-02950)
+[R for Data Science](https://r4ds.had.co.nz/)
+
+[Real Estate Data Anayltics - Tim Savage](https://github.com/thsavage)
+
+[Integrating Access wih Sharepoint](https://support.microsoft.com/en-us/office/import-link-or-move-data-to-sharepoint-65bf7b03-74bf-445c-959a-24b7a401ddee)
+
+[FreeBSD Guide](https://www.ocf.berkeley.edu/~reinholz/freebsd/freebsd.html)
 
 [STEP 1: Watch an overiew of OpenDataNYC from 2022 School of Data - Zoom Meeting](https://www.youtube.com/watch?v=QbvpIMIvovM&list=PLgCe1KzF20ix44ATnYYiGtM5TTWISQ45I&index=12)
 
