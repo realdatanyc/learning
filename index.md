@@ -1,7 +1,7 @@
 ## Learning
 
 # learning
-learning how to utilize data for insight and predictive analytics
+[NYC Transfer Tax Info](https://portal.311.nyc.gov/article/?kanumber=KA-02950)
 
 [STEP 1: Watch an overiew of OpenDataNYC from 2022 School of Data - Zoom Meeting](https://www.youtube.com/watch?v=QbvpIMIvovM&list=PLgCe1KzF20ix44ATnYYiGtM5TTWISQ45I&index=12)
 
