@@ -7,6 +7,8 @@ learning how to utilize data for insight and predictive analytics
 
 [BC interviews CC](https://podcasts.apple.com/us/podcast/carrie-chiang-nycs-most-powerful-broker/id1378685290?i=1000555545175)
 
+[Real Deal CC](https://therealdeal.com/issues_articles/the-closing-carrie-chiang/)
+
 [2022 NYC School of Data - Schedule](https://nycsodata22.sched.com/)
 
 [2022 NYC School of Data - Recordings](https://archive.open-data.nyc/)
