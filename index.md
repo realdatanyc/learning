@@ -5,7 +5,7 @@ learning how to utilize data for insight and predictive analytics
 
 [STEP 1: Watch an overiew of OpenDataNYC from 2022 School of Data - Zoom Meeting](https://www.youtube.com/watch?v=QbvpIMIvovM&list=PLgCe1KzF20ix44ATnYYiGtM5TTWISQ45I&index=12)
 
-
+[BC interviews CC](https://podcasts.apple.com/us/podcast/carrie-chiang-nycs-most-powerful-broker/id1378685290?i=1000555545175)
 
 [2022 NYC School of Data - Schedule](https://nycsodata22.sched.com/)
 
