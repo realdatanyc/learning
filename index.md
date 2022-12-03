@@ -1,5 +1,7 @@
 ## Learning
 
+[First Class Camera - Leicina Special](https://leicasocietyinternational.org/blog/2019/03/the-leicina-special-the-leica-of-super-8-movie-cameras)
+
 [R for Data Science](https://r4ds.had.co.nz/)
 
 [Real Estate Data Anayltics - Tim Savage](https://github.com/thsavage)
