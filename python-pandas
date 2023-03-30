@@ -3,3 +3,15 @@ NYU Public Policy Class
 [class syllabus](https://python-public-policy.afeld.me/en/nyu/syllabus.html)
 
 
+# Purpose: convert lbs to kilos or vice versa
+# Author: Robert Lazo
+# Date:  30 March 2023
+weight = int(input('Weight: '))
+unit  =input('(L)bs or (K)g: ')
+if unit.upper() == "L":
+        converted = weight * .45
+        print(f"You are {converted} kilos")
+else:
+        converted = weight / 0.45
+        print(f"You are {converted} pounds")
+
