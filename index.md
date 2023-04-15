@@ -2,7 +2,7 @@
 
 [Python for Excel Github 2023-04-15](https://github.com/fzumstein/python-for-excel)
 
-[Python for Excel 2023-04-15](https://xlwings.org/book)
+[Python for Excel Book 2023-04-15](https://xlwings.org/book)
 
 [XL Wings Meetup - NYC](https://www.meetup.com/xlwings-Meetup-NYC/)
 
