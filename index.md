@@ -1,6 +1,6 @@
 ## Learning
 
-[Python for Excel](https://xlwings.org/book)
+[Python for Excel = 20123-04-15](https://xlwings.org/book)
 
 [Real Python Tutorials](https://realpython.com/)
 
