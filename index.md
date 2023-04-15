@@ -1,6 +1,8 @@
 ## Learning
 
-[Python for Excel = 20123-04-15](https://xlwings.org/book)
+[XL Wings Meetup - NYC](https://www.meetup.com/xlwings-Meetup-NYC/)
+
+[Python for Excel 20123-04-15](https://xlwings.org/book)
 
 [Real Python Tutorials](https://realpython.com/)
 
