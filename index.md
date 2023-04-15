@@ -1,4 +1,7 @@
 ## Learning
+
+[Python for Excel](https://xlwings.org/book)
+
 [Real Python Tutorials](https://realpython.com/)
 
 [First Class Camera - Leicina Special](https://leicasocietyinternational.org/blog/2019/03/the-leicina-special-the-leica-of-super-8-movie-cameras)
