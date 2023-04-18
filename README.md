@@ -5,6 +5,8 @@ Python for Excel
 
 https://xlwings.org/book
 
+Harvard Data Science
+https://www.kdnuggets.com/2022/05/9-free-harvard-courses-learn-data-science-2022.html
 
 Jupyter Notebooks Markdown
 
