@@ -1,5 +1,7 @@
 ## Learning
 
+[Healthcare Transparency Data](bit.ly/paylesscuny)
+
 [Python for Excel Github 2023-04-15](https://github.com/fzumstein/python-for-excel)
 
 [Python for Excel Book 2023-04-15](https://xlwings.org/book)
