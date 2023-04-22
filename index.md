@@ -2,6 +2,8 @@
 
 [Healthcare Transparency Data](http://bit.ly/paylesscuny)
 
+[Python Tutorial - percentages in pandas](https://towardsdatascience.com/4-useful-tips-of-pandas-groupby-3744eefb1852)
+
 [Python Tutorial - show all data in pandas](https://builtin.com/data-science/pandas-show-all-columns)
 
 [Python for Excel Github 2023-04-15](https://github.com/fzumstein/python-for-excel)
