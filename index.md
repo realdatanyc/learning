@@ -6,6 +6,8 @@
 
 [Python Tutorial - show all data in pandas](https://builtin.com/data-science/pandas-show-all-columns)
 
+[read_exce](https://pandas.pydata.org/docs/reference/api/pandas.read_excel.html#pandas.read_excel)
+
 [Python for Excel Github 2023-04-15](https://github.com/fzumstein/python-for-excel)
 
 [Python for Excel Book 2023-04-15](https://xlwings.org/book)
