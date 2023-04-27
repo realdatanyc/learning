@@ -1,5 +1,7 @@
 ## Learning
 
+[Linking Google Sheets to Excel](https://www.liveflow.io/post/how-to-connect-google-sheets-to-excel)
+
 [Healthcare Transparency Data](http://bit.ly/paylesscuny)
 
 [Python and Excel by George Mount](https://www.youtube.com/live/D61IxVyG6SA?feature=share)
