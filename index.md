@@ -1,6 +1,8 @@
 ## Learning
 [NYC Housing Production Report 2021](https://storymaps.arcgis.com/stories/1c9138dc24064b2e8142ff156345a719)
 
+[Introduction tp Bayesian Statistics / Conditional Probability](https://youtu.be/NIqeFYUhSzU)
+
 [Introduction to Seaborn](https://seaborn.pydata.org/tutorial/introduction.html)
 
 [DCP - NYC Street Map](https://streets.planning.nyc.gov/about?lat=40.7831&lng=-73.9281&zoom=11.5)
@@ -133,24 +135,7 @@ Represented by De Baets’ Bangkok-based OptAsia Capital Co. Ltd, 315 Dean Assoc
 
 [Eric Gordon - RealPlus](https://trd.media/ny/j0R4a4)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
